@@ -1,0 +1,1 @@
+give @a nether_star 1

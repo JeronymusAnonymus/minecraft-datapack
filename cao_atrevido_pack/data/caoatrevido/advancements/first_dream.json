@@ -1,0 +1,16 @@
+{
+  "parent": "caoatrevido:enter_world",
+  "display": {
+    "icon": {
+      "id": "minecraft:purple_bed"
+    },
+    "title": "Primeiro Sonho",
+    "description": "Visita a dimensão dos sonhos",
+    "frame": "goal"
+  },
+  "criteria": {
+    "dream": {
+      "trigger": "minecraft:tick"
+    }
+  }
+}

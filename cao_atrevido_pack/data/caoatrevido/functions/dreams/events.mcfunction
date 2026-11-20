@@ -1,0 +1,1 @@
+particle minecraft:end_rod ~ ~1 ~ 1 1 1 0.01 5

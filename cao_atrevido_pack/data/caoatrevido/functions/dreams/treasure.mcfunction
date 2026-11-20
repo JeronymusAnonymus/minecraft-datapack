@@ -1,0 +1,1 @@
+give @p minecraft:amethyst_shard 1

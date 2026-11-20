@@ -1,0 +1,84 @@
+{
+  "type": "minecraft:overworld",
+  "generator": {
+    "type": "minecraft:noise",
+    "settings": "minecraft:overworld",
+    "biome_source": {
+      "type": "minecraft:multi_noise",
+      "biomes": [
+        {
+          "biome": "caoatrevido:dog_plains",
+          "parameters": {
+            "temperature": 0.0,
+            "humidity": 0.0,
+            "continentalness": 0.0,
+            "erosion": 0.0,
+            "depth": 0.0,
+            "weirdness": 0.0,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "caoatrevido:scratch_fields",
+          "parameters": {
+            "temperature": 0.3,
+            "humidity": 0.3,
+            "continentalness": 0.3,
+            "erosion": 0.3,
+            "depth": 0.0,
+            "weirdness": 0.3,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "caoatrevido:minecraftices",
+          "parameters": {
+            "temperature": 0.6,
+            "humidity": 0.6,
+            "continentalness": 0.6,
+            "erosion": 0.6,
+            "depth": 0.0,
+            "weirdness": 0.6,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "caoatrevido:blockbench_factory",
+          "parameters": {
+            "temperature": -0.3,
+            "humidity": -0.3,
+            "continentalness": -0.3,
+            "erosion": -0.3,
+            "depth": 0.0,
+            "weirdness": -0.3,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "caoatrevido:crystal_lands",
+          "parameters": {
+            "temperature": -0.6,
+            "humidity": -0.6,
+            "continentalness": -0.6,
+            "erosion": -0.6,
+            "depth": 0.0,
+            "weirdness": -0.6,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "caoatrevido:dream_forest",
+          "parameters": {
+            "temperature": 1.0,
+            "humidity": 1.0,
+            "continentalness": 1.0,
+            "erosion": 1.0,
+            "depth": 0.0,
+            "weirdness": 1.0,
+            "offset": 0.0
+          }
+        }
+      ]
+    }
+  }
+}

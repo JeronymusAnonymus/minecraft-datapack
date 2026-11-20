@@ -1,0 +1,15 @@
+{
+  "has_precipitation": true,
+  "temperature": 0.4,
+  "downfall": 0.8,
+  "effects": {
+    "fog_color": 8388736,
+    "water_color": 65535,
+    "water_fog_color": 65535,
+    "sky_color": 8978431,
+    "grass_color": 52479,
+    "foliage_color": 65535
+  },
+  "spawn_settings": {},
+  "generation_settings": {}
+}

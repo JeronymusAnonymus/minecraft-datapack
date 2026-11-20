@@ -1,0 +1,1 @@
+tellraw @a {"text":"Storage inicializado.","color":"aqua"}

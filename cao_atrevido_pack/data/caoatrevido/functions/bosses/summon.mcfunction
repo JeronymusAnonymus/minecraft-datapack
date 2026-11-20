@@ -1,0 +1,1 @@
+summon warden ~ ~ ~ {CustomName:'{"text":"Cão Atrevido Supremo"}'}

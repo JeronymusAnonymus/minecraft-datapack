@@ -1,0 +1,10 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Create Directory and File",
+			"type": "shell",
+			"command": "mkdir -p cao_atrevido_pack/data/caoatrevido/functions/world && touch cao_atrevido_pack/data/caoatrevido/functions/world/effects.mcfunction"
+		}
+	]
+}

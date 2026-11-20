@@ -1,0 +1,1 @@
+place structure caoatrevido:spawn_hub

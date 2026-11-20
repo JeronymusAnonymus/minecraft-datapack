@@ -1,0 +1,16 @@
+{
+  "parent": "caoatrevido:root",
+  "display": {
+    "icon": {
+      "id": "minecraft:grass_block"
+    },
+    "title": "Novo Mundo",
+    "description": "Entra no Mundo Atrevido",
+    "frame": "task"
+  },
+  "criteria": {
+    "enter": {
+      "trigger": "minecraft:tick"
+    }
+  }
+}

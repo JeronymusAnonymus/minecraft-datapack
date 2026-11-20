@@ -1,0 +1,1 @@
+data modify storage caoatrevido:players Pos set from entity @s Pos

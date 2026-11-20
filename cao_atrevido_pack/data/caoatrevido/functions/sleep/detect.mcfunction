@@ -1,0 +1,1 @@
+execute as @a[scores={sleep=1..}] unless score @s sleeping matches 1 run function caoatrevido:sleep/enter
